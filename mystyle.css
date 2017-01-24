@@ -8,3 +8,7 @@ header {
       background-size: cover;
       color: rgba(200,0,0,1);
     }
+.links{
+	padding: 10px;
+	background:rgba(0,0,0,0.5);	
+}
