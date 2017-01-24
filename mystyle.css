@@ -4,7 +4,7 @@ body{
 }
 header {
       text-align: center;
-      background: url('https://drive.google.com/file/d/0B1dt2mJwZlFacUxqX1c3V2FLRWs/view?usp=sharing');
+      background: 'images/sand.jpg';
       background-size: cover;
       color: rgba(200,0,0,1);
     }
