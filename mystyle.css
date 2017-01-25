@@ -8,11 +8,13 @@ header {
       background-size: cover;
       color: rgba(100,500,225,0.8);
     }
-.links{
+.apples{
 	padding: 10px;
+	background: rgba(0,0,0,0.5);
+}
+.links{
 	display: inline;
 	padding: 0px 10px 0px 10px;
-	background: rgba(0,0,0,0.5);
 	font-size: 30px;
 }
 h1 {
