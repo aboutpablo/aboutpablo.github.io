@@ -15,11 +15,11 @@ header {
 	background: rgba(0,0,0,0.5);
 	font-size: 30px;
 }
-h1{
+h1 {
 	font-size: 70px;
 	text-align: center;	
 }
-h2{
+h2 {
 	font-size: 50px;
 	padding: 5px;
 }
@@ -33,4 +33,7 @@ img {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
+}
+.lists {
+	font-size: 30px;
 }
