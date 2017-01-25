@@ -4,7 +4,7 @@ body{
 }
 header {
       text-align: center;
-      background: rgba(31,118,81,.7);
+      background: rgba(50,125,80,1);
       background-size: cover;
       color: rgba(100,500,225,0.8);
     }
