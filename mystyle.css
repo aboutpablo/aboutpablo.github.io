@@ -12,5 +12,5 @@ header {
 	padding: 10px;
 	display: inline;
 	padding: 0px 10px 0px 10px;
-	background: 0,0,0,0.5;
+	background: rgba(0,0,0,0.5);
 }
