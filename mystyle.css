@@ -45,10 +45,7 @@ img {
 	transform: rotate(90deg);
 }
 .baseballpics { 
-position: static;
-width: 100px;
-height: 150px;	
-background-position: 50% 50%; 
-background-repeat: no-repeat; 
-background-size: cover; 
+    display: inline-block;
+    width: 150px;
+    height: 75px;
 }
