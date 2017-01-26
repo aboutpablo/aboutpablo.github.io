@@ -41,16 +41,7 @@ img {
 .lists {
 	font-size: 30px;
 }
-#me {
-	transform: rotate(90deg);
-	width: 150px;
-    	height: 75px;
-}
-#otherme {
-	width: 75px;
-    	height: 150px;
-}
 .baseballpics {
-	display: inline-block;
+	display: inline;
 	padding: 0px 10px 0px 10px;
 }
