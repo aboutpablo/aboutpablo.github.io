@@ -41,3 +41,6 @@ img {
 .lists {
 	font-size: 30px;
 }
+.me {
+	transform: rotate(90deg);
+}
