@@ -50,4 +50,7 @@ img {
 	width: 75px;
     	height: 150px;
 }
-
+.baseballpics {
+	display: inline;
+	padding: 0px 10px 0px 10px;
+}
