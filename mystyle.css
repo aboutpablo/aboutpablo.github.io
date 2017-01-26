@@ -51,6 +51,6 @@ img {
     	height: 150px;
 }
 .baseballpics {
-	display: inline;
+	display: inline-block;
 	padding: 0px 10px 0px 10px;
 }
