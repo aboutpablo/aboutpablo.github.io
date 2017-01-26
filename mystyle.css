@@ -45,12 +45,9 @@ img {
 	transform: rotate(90deg);
 	width: 150px;
     	height: 75px;
-	padding: (50,10,10,10);
 }
 #otherme {
 	width: 75px;
     	height: 150px;
 }
-.baseballpics { 
-    display: inline-block;
-}
+
