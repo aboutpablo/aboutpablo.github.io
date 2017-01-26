@@ -43,8 +43,8 @@ img {
 }
 #me {
 	transform: rotate(90deg);
-	padding: 20px;
 }
-#otherme{
-	padding:10px;
+.baseballpics {
+	display: inline;
+	
 }
